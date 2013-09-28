@@ -21,3 +21,11 @@ Codes sources
 
 
 
+TODOS
+=====
+
+..  toctree::
+    :glob:
+    :maxdepth: 2
+
+    todos/*
